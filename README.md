@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Preview 
 - link"https://shopsypj.netlify.app"
 
+### Images
+![img](asset/1.png)
+
 First, run the development server:
 
 ```bash
